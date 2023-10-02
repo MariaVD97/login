@@ -1,0 +1,13 @@
+.hijo{   
+    width: 200px;       
+    height: 200px;
+    position: absolute;
+    top:50%;
+    left: 50%;           
+    margin-top: -50px;
+    margin-left: -50px;
+  }
+.padre{   
+        height: 70vh;  
+}
+
